@@ -1,0 +1,38 @@
+﻿@model ProvaCandidato.Data.Entidade.Cidade
+
+
+@{
+    ViewBag.Title = "Editar Cidade";
+
+
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.HiddenFor(model => model.Codigo)
+
+    @Html.ValidationSummary(true)
+
+    <div class="row" style="margin-top:10px; padding-bottom: 10px;">
+        <label for="nome" class="col-sm-2 col-form-label">Nome</label>
+        <div class="col-sm-10">
+            @Html.EditorFor(model => model.Nome, new { htmlAtributes = new { @class = "col-sm-10" } })
+            @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="text-center" style="font-weight:bold" class="btn btn-default">
+        <input type="submit" value="Salvar " class="btn btn-primary" />
+        @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-primary" })
+
+    </div>
+
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

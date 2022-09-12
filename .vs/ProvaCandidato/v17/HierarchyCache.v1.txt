@@ -1,0 +1,396 @@
+﻿++Solução 'ProvaCandidato' ‎(2 de 2 projetos)
+i:{00000000-0000-0000-0000-000000000000}:ProvaCandidato.sln
+++ProvaCandidato.Data
+i:{00000000-0000-0000-0000-000000000000}:ProvaCandidato.Data
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Properties
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.data\properties\
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\properties\
+++AssemblyInfo.cs
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.data\properties\assemblyinfo.cs
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\properties\assemblyinfo.cs
+++Referências
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++EntityFramework
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++EntityFramework.SqlServer
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Microsoft.CSharp
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Microsoft.Web.Infrastructure
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.ComponentModel.DataAnnotations
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Core
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+++System.Data
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Data.DataSetExtensions
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Net
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+++System.Net.Http
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.Helpers
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.Mvc
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.Razor
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.WebPages
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.WebPages.Deployment
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.WebPages.Razor
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Xml
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Xml.Linq
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:
+++Entidade
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.data\entidade\
+++Cidade.cs
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.data\entidade\cidade.cs
+++Cliente.cs
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.data\entidade\cliente.cs
+++App.config
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.data\app.config
+++ContextoPrincipal.cs
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.data\contextoprincipal.cs
+++packages.config
+i:{8d1e713b-813c-4c75-9c8b-5778dacd2ce0}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.data\packages.config
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\packages.config
+++ProvaCandidato.Web
+i:{00000000-0000-0000-0000-000000000000}:ProvaCandidato.Web
+++Antlr3.Runtime
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Microsoft.AI.Agent.Intercept
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Microsoft.AI.DependencyCollector
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Microsoft.AI.PerfCounterCollector
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Microsoft.AI.ServerTelemetryChannel
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Microsoft.AI.Web
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Microsoft.AI.WindowsServer
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Microsoft.ApplicationInsights
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++Newtonsoft.Json
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++NLog
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Configuration
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Drawing.Common
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.EnterpriseServices
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.IdentityModel
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.IO.Compression
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Net.Http.Formatting
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Net.Http.WebRequest
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Runtime.Serialization
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.ServiceModel
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Transactions
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.Abstractions
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.ApplicationServices
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.DynamicData
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.Entity
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.Http
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.Http.WebHost
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.Optimization
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.Routing
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++System.Web.Services
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++WebGrease
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++WindowsBase
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:
+++App_Data
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\app_data\
+++App_Start
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\app_start\
+++BundleConfig.cs
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\app_start\routeconfig.cs
+++WebApiConfig.cs
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\app_start\webapiconfig.cs
+++Assets
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\
+++Images
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\images\
+++ExemploPartialView.jpg
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\images\exemplopartialview.jpg
+++logo.gif
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\images\logo.gif
+++Scripts
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\
+++_references.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\_references.js
+++ai.0.22.9-build00167.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\ai.0.22.9-build00167.js
+++ai.0.22.9-build00167.min.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\ai.0.22.9-build00167.min.js
+++bootstrap.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\bootstrap.js
+++bootstrap.min.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\bootstrap.min.js
+++geral.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\geral.js
+++jquery-1.10.2.intellisense.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery-1.10.2.intellisense.js
+++jquery-1.10.2.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery-1.10.2.js
+++jquery-1.10.2.min.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery-1.10.2.min.js
+++jquery-1.10.2.min.map
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery-1.10.2.min.map
+++jquery-ui-1.10.2.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery-ui-1.10.2.js
+++jquery-ui-1.10.2.min.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery-ui-1.10.2.min.js
+++jquery.validate-vsdoc.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.6.2.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\modernizr-2.6.2.js
+++respond.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\respond.js
+++respond.min.js
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\scripts\respond.min.js
+++StyleSheets
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\stylesheets\
+++themes
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\
+++Controllers
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\controllers\
+++ClienteController.cs
+++HomeController.cs
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\controllers\homecontroller.cs
+++fonts
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\fonts\
+++Helper
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\helper\
+++MessageHelper.cs
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\helper\messagehelper.cs
+++Models
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\models\
+++Views
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\views\
+++Home
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\views\home\
+++Index.cshtml
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\views\home\index.cshtml
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\views\clientes\index.cshtml
+++Shared
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\views\shared\
+++_Layout.cshtml
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\views\shared\_layout.cshtml
+++Error.cshtml
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\views\_viewstart.cshtml
+++Web.config
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\views\web.config
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\web.config
+++ApplicationInsights.config
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\applicationinsights.config
+++favicon.ico
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\favicon.ico
+++Global.asax
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\global.asax
+++Project_Readme.html
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\project_readme.html
+++bootstrap.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\stylesheets\bootstrap.css
+++bootstrap.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\stylesheets\bootstrap.min.css
+++geral.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\stylesheets\geral.css
+++base
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\
+++glyphicons-halflings-regular.eot
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\fonts\glyphicons-halflings-regular.woff
+++Global.asax.cs
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\global.asax.cs
+++Web.Debug.config
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\web.debug.config
+++Web.Release.config
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\web.release.config
+++images
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\
+++minified
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\
+++jquery-ui.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery-ui.css
+++jquery.ui.accordion.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.accordion.css
+++jquery.ui.all.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.all.css
+++jquery.ui.autocomplete.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.autocomplete.css
+++jquery.ui.base.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.base.css
+++jquery.ui.button.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.button.css
+++jquery.ui.core.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.core.css
+++jquery.ui.datepicker.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.datepicker.css
+++jquery.ui.dialog.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.dialog.css
+++jquery.ui.menu.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.menu.css
+++jquery.ui.progressbar.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.progressbar.css
+++jquery.ui.resizable.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.resizable.css
+++jquery.ui.selectable.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.selectable.css
+++jquery.ui.slider.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.slider.css
+++jquery.ui.spinner.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.spinner.css
+++jquery.ui.tabs.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.tabs.css
+++jquery.ui.theme.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.theme.css
+++jquery.ui.tooltip.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\jquery.ui.tooltip.css
+++animated-overlay.gif
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\animated-overlay.gif
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\animated-overlay.gif
+++ui-bg_flat_0_aaaaaa_40x100.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png
+++ui-bg_flat_75_ffffff_40x100.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-bg_flat_75_ffffff_40x100.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png
+++ui-bg_glass_55_fbf9ee_1x400.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png
+++ui-bg_glass_65_ffffff_1x400.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-bg_glass_65_ffffff_1x400.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png
+++ui-bg_glass_75_dadada_1x400.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-bg_glass_75_dadada_1x400.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png
+++ui-bg_glass_75_e6e6e6_1x400.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png
+++ui-bg_glass_95_fef1ec_1x400.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png
+++ui-bg_highlight-soft_75_cccccc_1x100.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+++ui-icons_222222_256x240.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-icons_222222_256x240.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-icons_222222_256x240.png
+++ui-icons_2e83ff_256x240.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-icons_2e83ff_256x240.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-icons_2e83ff_256x240.png
+++ui-icons_454545_256x240.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-icons_454545_256x240.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-icons_454545_256x240.png
+++ui-icons_888888_256x240.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-icons_888888_256x240.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-icons_888888_256x240.png
+++ui-icons_cd0a0a_256x240.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\images\ui-icons_cd0a0a_256x240.png
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\images\ui-icons_cd0a0a_256x240.png
+++jquery-ui.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery-ui.min.css
+++jquery.ui.accordion.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.accordion.min.css
+++jquery.ui.autocomplete.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.autocomplete.min.css
+++jquery.ui.button.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.button.min.css
+++jquery.ui.core.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.core.min.css
+++jquery.ui.datepicker.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.datepicker.min.css
+++jquery.ui.dialog.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.dialog.min.css
+++jquery.ui.menu.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.menu.min.css
+++jquery.ui.progressbar.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.progressbar.min.css
+++jquery.ui.resizable.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.resizable.min.css
+++jquery.ui.selectable.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.selectable.min.css
+++jquery.ui.slider.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.slider.min.css
+++jquery.ui.spinner.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.spinner.min.css
+++jquery.ui.tabs.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.tabs.min.css
+++jquery.ui.theme.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.theme.min.css
+++jquery.ui.tooltip.min.css
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\assets\themes\base\minified\jquery.ui.tooltip.min.css
+++ClientesController.cs
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\controllers\clientescontroller.cs
+++NewFolder1
+++Clientes
+i:{7950fcb1-0e26-485e-be00-cd8460258c84}:c:\users\erick\onedrive\área de trabalho\provacandidato mvc\provacandidato.web\views\clientes\

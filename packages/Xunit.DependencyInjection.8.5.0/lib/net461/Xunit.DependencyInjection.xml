@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Xunit.DependencyInjection</name>
+    </assembly>
+    <members>
+        <member name="T:Xunit.DependencyInjection.ContextValue`1.ValueHolder">
+            <summary>See <see href="https://github.com/dotnet/aspnetcore/blob/main/src/Http/Http/src/HttpContextAccessor.cs">HttpContextAccessor</see></summary>
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestAssemblyRunner.RunTestCollectionAsync(Xunit.Sdk.IMessageBus,Xunit.Abstractions.ITestCollection,System.Collections.Generic.IEnumerable{Xunit.Sdk.IXunitTestCase},System.Threading.CancellationTokenSource)">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestCaseRunner.RunTestAsync">
+            <inheritdoc />
+        </member>
+        <member name="P:Xunit.DependencyInjection.DependencyInjectionTestCaseRunnerWrapper.TestCaseType">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestCaseRunnerWrapper.RunAsync(Xunit.Sdk.IXunitTestCase,System.IServiceProvider,Xunit.Abstractions.IMessageSink,Xunit.Sdk.IMessageBus,System.Object[],Xunit.Sdk.ExceptionAggregator,System.Threading.CancellationTokenSource)">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestClassRunner.CreateTestClassConstructorArguments">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestClassRunner.TryGetConstructorArgument(System.Reflection.ConstructorInfo,System.Int32,System.Reflection.ParameterInfo,System.Object@)">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestClassRunner.CreateClassFixture(System.Type)">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestClassRunner.BeforeTestClassFinishedAsync">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestClassRunner.RunTestMethodAsync(Xunit.Abstractions.ITestMethod,Xunit.Abstractions.IReflectionMethodInfo,System.Collections.Generic.IEnumerable{Xunit.Sdk.IXunitTestCase},System.Object[])">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestCollectionRunner.CreateCollectionFixture(System.Type)">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestCollectionRunner.BeforeTestCollectionFinishedAsync">
+            <inheritdoc/>
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestCollectionRunner.RunTestClassAsync(Xunit.Abstractions.ITestClass,Xunit.Abstractions.IReflectionTypeInfo,System.Collections.Generic.IEnumerable{Xunit.Sdk.IXunitTestCase})">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestFrameworkExecutor.RunTestCases(System.Collections.Generic.IEnumerable{Xunit.Sdk.IXunitTestCase},Xunit.Abstractions.IMessageSink,Xunit.Abstractions.ITestFrameworkExecutionOptions)">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestInvoker.CallTestMethod(System.Object)">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestMethodRunner.RunTestCaseAsync(Xunit.Sdk.IXunitTestCase)">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTestRunner.InvokeTestAsync(Xunit.Sdk.ExceptionAggregator)">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTheoryTestCaseRunner.AfterTestCaseStartingAsync">
+            <inheritdoc />
+        </member>
+        <member name="P:Xunit.DependencyInjection.DependencyInjectionTheoryTestCaseRunnerWrapper.TestCaseType">
+            <inheritdoc />
+        </member>
+        <member name="M:Xunit.DependencyInjection.DependencyInjectionTheoryTestCaseRunnerWrapper.RunAsync(Xunit.Sdk.IXunitTestCase,System.IServiceProvider,Xunit.Abstractions.IMessageSink,Xunit.Sdk.IMessageBus,System.Object[],Xunit.Sdk.ExceptionAggregator,System.Threading.CancellationTokenSource)">
+            <inheritdoc />
+        </member>
+        <member name="P:Xunit.DependencyInjection.IXunitTestCaseRunnerWrapper.TestCaseType">
+            <summary>
+            Support type.
+            </summary>
+        </member>
+        <member name="M:Xunit.DependencyInjection.IXunitTestCaseRunnerWrapper.RunAsync(Xunit.Sdk.IXunitTestCase,System.IServiceProvider,Xunit.Abstractions.IMessageSink,Xunit.Sdk.IMessageBus,System.Object[],Xunit.Sdk.ExceptionAggregator,System.Threading.CancellationTokenSource)">
+            <summary>
+            Executes the test case, returning 0 or more result messages through the message sink.
+            </summary>
+            <param name="testCase">Test case.</param>
+            <param name="provider">The service provider.</param>
+            <param name="diagnosticMessageSink">The message sink used to send diagnostic messages to.</param>
+            <param name="messageBus">The message bus to report results to.</param>
+            <param name="constructorArguments">The arguments to pass to the constructor.</param>
+            <param name="aggregator">The error aggregator to use for catching exception.</param>
+            <param name="cancellationTokenSource">The cancellation token source that indicates whether cancellation has been requested.</param>
+            <returns>Returns the summary of the test case run.</returns>
+        </member>
+        <member name="T:Xunit.DependencyInjection.MethodDataAttribute">
+            <summary>
+            Provides a data source for a data theory.
+            The member must return something compatible with IEnumerable&lt;object[]&gt; with the test data.
+            </summary>
+        </member>
+        <member name="P:Xunit.DependencyInjection.MethodDataAttribute.MethodName">
+            <summary>
+            Gets the method name.
+            </summary>
+        </member>
+        <member name="P:Xunit.DependencyInjection.MethodDataAttribute.Parameters">
+            <summary>
+            Gets or sets the parameters passed to the member. Only supported for static methods.
+            </summary>
+        </member>
+        <member name="P:Xunit.DependencyInjection.MethodDataAttribute.ClassType">
+            <summary>
+            Gets the type of the class that provides the data.
+            </summary>
+        </member>
+        <member name="M:Xunit.DependencyInjection.MethodDataAttribute.#ctor(System.String,System.Object[])">
+            <summary>
+            Initializes a new instance of the <see cref="T:Xunit.MethodDataAttribute" /> class.
+            </summary>
+            <param name="methodName">The name of the public method on the test class that will provide the test data</param>
+            <param name="parameters">The parameters for the method</param>
+        </member>
+        <member name="M:Xunit.DependencyInjection.MethodDataAttribute.#ctor(System.String,System.Type,System.Object[])">
+            <summary>
+            Initializes a new instance of the <see cref="T:Xunit.MethodDataAttribute" /> class.
+            </summary>
+            <param name="methodName">The name of the public method on the test class that will provide the test data</param>
+            <param name="classType">The class that provides the data.</param>
+            <param name="parameters">The parameters for the method</param>
+        </member>
+        <member name="M:Xunit.DependencyInjection.MethodDataAttribute.GetData(System.Reflection.MethodInfo)">
+            <inheritdoc />
+        </member>
+        <member name="P:Xunit.DependencyInjection.StartupAttribute.Shared">
+            <summary>Default is true. If false, a isolated Startup will be created for the test class.</summary>
+        </member>
+        <member name="M:Xunit.DependencyInjection.StartupTypeAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes an instance of <see cref="T:Xunit.DependencyInjection.StartupTypeAttribute" />.
+            </summary>
+            <param name="typeName">The fully qualified type name of the startup
+            (f.e., 'Xunit.DependencyInjection.Test.Startup')</param>
+            <param name="assemblyName">The name of the assembly that the startup type
+            is located in, without file extension (f.e., 'Xunit.DependencyInjection.Test')</param>
+        </member>
+        <member name="M:Xunit.DependencyInjection.StartupTypeAttribute.#ctor(System.Type)">
+            <summary>
+            Initializes an instance of <see cref="T:Xunit.DependencyInjection.StartupTypeAttribute" />.
+            </summary>
+            <param name="startupType">The fully qualified type name of the startup type
+            (f.e., 'Xunit.DependencyInjection.Test.Startup')</param>
+        </member>
+    </members>
+</doc>

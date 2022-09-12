@@ -1,0 +1,65 @@
+﻿@model ProvaCandidato.Data.Entidade.Cliente
+
+
+@{
+    ViewBag.Title = "Editar Cliente";
+    DateTime dataAtual = DateTime.Now;
+
+    var dateNascimento = ((DateTime)Model.DataNascimento).ToString("yyyy-MM-dd") ?? dataAtual.ToString("yyyy-MM-dd");
+
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+    @Html.HiddenFor(model => model.Codigo)
+
+    @Html.ValidationSummary(true)
+
+
+    <div class="row" style="margin-top:10px; padding-bottom: 10px;">
+        <label for="nome" class="col-sm-2 col-form-label">Nome</label>
+        <div class="col-sm-10">
+            @Html.EditorFor(model => model.Nome, new { htmlAtributes = new { @class = "col-sm-10" } })
+            @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row " style="margin-top:10px; padding-bottom: 10px;">
+        <label for="data" class="col-sm-2 col-form-label">Data de Nascimento</label>
+        <div class="col-sm-10">
+            @Html.TextBoxFor(model => model.DataNascimento, new { @type = "date", @class = "form-control datepicker", @Value = dateNascimento })
+            @Html.ValidationMessageFor(model => model.DataNascimento, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="row " style="margin-top:10px; padding-bottom: 10px;">
+        <label for="cidade" class="col-sm-2 col-form-label">Cidade</label>
+        <div class="col-sm-10">
+            @Html.DropDownList("CidadeId", null, htmlAttributes: new { @class = "col-sm-10" })
+            @Html.ValidationMessageFor(model => model.CidadeId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="row" style="margin-top:10px; padding-bottom: 10px;">
+
+        <label for="status" class="col-sm-2 col-form-label">Ativo</label>
+        <div class="col-sm-1">
+            @Html.EditorFor(model => model.Ativo, new { @class = "col-sm-10" })
+            @Html.ValidationMessageFor(model => model.Ativo, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="text-center" style="font-weight:bold" class="btn btn-default">
+        <input type="submit" value="Salvar " class="btn btn-primary" />
+        @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-primary" })
+
+    </div>
+
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

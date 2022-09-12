@@ -1,0 +1,61 @@
+﻿@model IEnumerable<ProvaCandidato.Data.Entidade.Cliente>
+
+@{ ViewBag.Title = "Clientes"; }
+
+<h2>
+    @ViewBag.Title
+</h2>
+
+
+
+<form aps-controller="Clientes" asp-action="Index">
+    <p>
+        @Html.ActionLink("Cadastrar novo cliente", "Create", null, new { @class = "btn btn-primary" })
+        Nome: <input type="text" name="nome" />
+        <input type="submit" value="Pesquisar" class="btn btn-primary" />
+    </p>
+</form>
+
+<table class="table-condensed">
+  
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cidade)
+        </th>
+        <th>
+            Data de Nascimento
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ativo)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Nome)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Cidade.Nome)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DataNascimento)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Ativo)
+    </td>
+    <td>
+        @Html.ActionLink("Editar", "Edit", new { id = item.Codigo }, new { @class = "btn btn-primary" })
+    </td>
+    <td>
+        @Html.ActionLink("Detalhes", "Details", new { id = item.Codigo }, new { @class = "btn btn-primary" })
+    </td>
+    <td>
+        @Html.ActionLink("Excluir", "Delete", new { id = item.Codigo }, new { @class = "btn btn-primary" })
+    </td>
+</tr>}
+</table>

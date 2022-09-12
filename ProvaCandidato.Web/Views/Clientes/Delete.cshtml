@@ -1,0 +1,55 @@
+﻿@model ProvaCandidato.Data.Entidade.Cliente
+
+@{ ViewBag.Title = "Excluir Cliente"; }
+
+
+
+<title>@ViewBag.Title</title>
+
+<h2>@ViewBag.Title</h2>
+
+
+<div class="text-center" style="font-weight:bold">Deseja realmente excluir o Cliente?</div>
+<dl class="dl-horizontal">
+    @Html.ValidationSummary(true)
+    <dt>
+        @Html.DisplayNameFor(model => model.Nome)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Nome)
+    </dd>
+
+    <dt>
+        Data de Nascimento
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.DataNascimento)
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.Cidade.Nome)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Cidade.Nome)
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.Ativo)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Ativo)
+    </dd>
+</dl>
+
+
+@using (Html.BeginForm())
+ {
+    @Html.AntiForgeryToken()
+
+                <div class="text-center" style="font-weight:bold" class="btn btn-default">
+                    <input type="submit" value="Excluir  " class = "btn btn-primary"/> 
+                    @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-primary" })                    
+                </div>
+ }
+
+
+
+
