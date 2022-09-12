@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\ProvaCandidato.Web",
-    "\\ProvaCandidato.Web\\Helper"
+    "\\ProvaCandidato.Web\\Controllers"
   ],
-  "SelectedNode": "\\ProvaCandidato.sln",
+  "SelectedNode": "\\ProvaCandidato.Web\\Controllers\\ClientesController.cs",
   "PreviewInSolutionExplorer": false
 }
